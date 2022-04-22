@@ -1,0 +1,30 @@
+_repo: George-Meredith-A-Study_67757
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lynch, Hannah
+    birthdate: 1859
+    deathdate: 1904
+    gutenberg_agent_id: '43709'
+    url: http://www.gutenberg.org/2009/agents/43709
+    wikipedia: https://en.wikipedia.org/wiki/Hannah_Lynch
+description: ''
+gutenberg_issued: '2022-04-02'
+identifiers:
+  gutenberg: '67757'
+language: en
+pgterms:marc904: https://archive.org/details/georgemeredithst00lyncuoft/
+pgterms:marc905: 20210203022819lynch
+pgterms:marc906: '1891'
+pgterms:marc907: GB
+production_note: Emmanuel Ackerman, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United Kingdom :Methuen & Co.,1891.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'George Meredith: A Study'
+url: http://www.gutenberg.org/ebooks/67757
