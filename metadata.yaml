@@ -1,5 +1,8 @@
 _repo: George-Meredith-A-Study_67757
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67757-h/images/cover.jpg
 creator:
   author:
     agent_name: Lynch, Hannah
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43709
     wikipedia: https://en.wikipedia.org/wiki/Hannah_Lynch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67757#George-Meredith-A-Study
 gutenberg_issued: '2022-04-02'
 identifiers:
   gutenberg: '67757'
